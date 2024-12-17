@@ -9,6 +9,10 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gaoxiu333/vscode.git"
+  },
   "extensionPack": [
     "aaron-bond.better-comments",
     "alefragnani.project-manager",
