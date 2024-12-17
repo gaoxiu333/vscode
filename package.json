@@ -3,6 +3,7 @@
   "displayName": "gx-web",
   "description": "",
   "version": "0.0.1",
+  "publisher": "gaoxiu",
   "engines": {
     "vscode": "^1.96.0"
   },
